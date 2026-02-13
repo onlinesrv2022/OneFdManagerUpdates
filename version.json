@@ -1,9 +1,5 @@
 {
-    ...
-    "programme_stt": {
-        "ver": "3.3" 
-    },
-    ...
-    "update_path": "https://github.com/onlinesrv2022/OneFdManagerUpdates/releases/download/v3.3/update.zip",
-    ...
+    "version": "3.3",
+    "url": "https://github.com/onlinesrv2022/OneFdManagerUpdates/releases/download/v3.3/update.zip",
+    "changelog": "إضافة حقل الجنس وإصلاح دالة الحذف النهائي"
 }
