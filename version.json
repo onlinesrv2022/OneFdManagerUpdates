@@ -1,5 +1,5 @@
 {
-    "version": "3.3",
-    "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v2.0/update.zip",
-    "notes": "تم إصلاح مشاكل في تسجيل الدخول وتحسين السرعة."
+  "version": "3.3",
+  "url": "https://github.com/onlinesrv2022/OneFdManagerUpdates/releases/download/v3.3/update.zip",
+  "changelog": "إضافة حقل الجنس في الواجهة، إصلاح مشكلة الانهيار عند حذف الطالب، وتطوير محرك استخراج الفروض لدعم مستويات المتوسط والثانوي."
 }
